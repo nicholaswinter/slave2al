@@ -1,4 +1,4 @@
-//STAR
+    //STAR
 
     class star {
     float x; 

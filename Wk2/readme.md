@@ -1,12 +1,18 @@
 Wk 2 
 
-Honestly coming upon reflection, I found processing quite difficult to navigate. 
+Honestly coming upon reflection, I found processing quite difficult to understand in regards to how the coding language reads. 
 
 
 Processing: 
 Cheatsheet
 Line: 0,0 STARTING POINT 0,0 ENDING 
 Rect: 0,0 WHERE(can insert mouse), 0,0 SIZE 
+
+Notable Artists: 
+- Ryoji Ikeda 
+- Raven Kwow
+
+Personally, having mentioned mental health this week, in the form of anxiety interests me. Even dreams. Anxious dreams and how can I create a system them that looks to correct these anxieties through music or white noise? Including visuals, colours or patterns to help your 'sleep state'? This would interest me most - Creating atmospheres in which allows a being to enter their sleep without hestiations or distracting thoughts, a program that can detect when those thoughts are triggered, and then counteract them. 
 
 Example artists
 - Piet Mondrian

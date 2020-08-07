@@ -23,15 +23,24 @@ Trial #2
 With the process of turning on the dryer, and then laid beneath was my card and colours that were spread from the force of the heat/ wind. Applying water at the same time allowed for the process to be elongated. 
 
 Example Artists: 
-Eske Rex
-Karina Smigla-Bobinski
-Joseph Griffiths 
-David Shingler
-Leo Fidjeland & Linnea Vaglund
-Jean Tinguely
-Greg Kuoera 
-Thomas Forsyth
-Sol Lewitt
+- Eske Rex
+- Karina Smigla-Bobinski
+- Joseph Griffiths 
+- David Shingler
+- Leo Fidjeland & Linnea Vaglund
+- Jean Tinguely
+- Greg Kuoera 
+- Thomas Forsyth
+- Sol Lewitt
+
+Pitch thinking: 
+What is it that defines my project? Resolution of Anxiety and Thought. 
+What does my product do? 
+I must argue/ speculate the plausibility. Gathering support for the assignment, remember INPUT - PROCESS - OUTPUT. 
+Andy "project = technology (possibility) t + blue-sky x life experience/interest" 
+
+HW: 
+Create a mockup pre next week to present as an "idea", as speculating the idea without the effort to visualise it doesn't allow someone to fully understand the abstraction. *Speak to an object* A depiction of what you're abstracting. 
 
 Personal thoughts/ Readings: 
 Carl G. Jung, Man and His Symbols

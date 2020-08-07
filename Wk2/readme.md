@@ -8,7 +8,7 @@ Cheatsheet
 Line: 0,0 STARTING POINT 0,0 ENDING 
 Rect: 0,0 WHERE(can insert mouse), 0,0 SIZE 
 
-Notable Artists: 
+Notable Artists**Aesthetically: 
 - Ryoji Ikeda 
 - Raven Kwow
 

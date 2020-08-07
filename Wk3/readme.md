@@ -32,3 +32,6 @@ Jean Tinguely
 Greg Kuoera 
 Thomas Forsyth
 Sol Lewitt
+
+Personal thoughts/ Readings: 
+Carl G. Jung, Man and His Symbols

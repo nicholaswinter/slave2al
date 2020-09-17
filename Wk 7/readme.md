@@ -11,6 +11,7 @@ Thus far progress has been **far too slow**, and I'm eager now to experiement an
 
 ![Untitled_Artwork 3](https://user-images.githubusercontent.com/68719286/93431259-0a39ce00-f903-11ea-869a-a4a688f0672e.gif)
 
+<h1>Screenshots WrigglyType</h1>
 <img width="1263" alt="Screen Shot 2020-09-17 at 4 46 25 pm" src="https://user-images.githubusercontent.com/68719286/93433784-6e11c600-f906-11ea-96c4-15c7e40347c7.png">
 
 <img width="1280" alt="Screen Shot 2020-09-17 at 4 53 27 pm" src="https://user-images.githubusercontent.com/68719286/93433801-72d67a00-f906-11ea-98f6-2f30036ae146.png">

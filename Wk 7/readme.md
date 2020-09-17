@@ -19,11 +19,16 @@ Thus far progress has been **far too slow**, and I'm eager now to experiement an
  VAR most important tasks, favourite songs, favourite daily workout routine, favourite stretch, random tasks, least favourite song, least favourite activites
 
  IF (working){
+ 
  Time since start = TRUE < 35 mins
+ 
  INT favourite song = 5 mins
+ 
  } 
  ELSE IF (still working, continue button clicked){ 
+ 
  INT 35 mins 
+ 
 
 ![Untitled_Artwork 3](https://user-images.githubusercontent.com/68719286/93431259-0a39ce00-f903-11ea-869a-a4a688f0672e.gif)
 

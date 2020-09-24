@@ -1,8 +1,6 @@
 <h1>Week 9 Progress</9> 
 
-
-
-
+<h2>New Concept</h2> 
 I've developed the concept, and have decided to extend research towards translation and expressive typography.
 
 <h2>Concept pictures</h2> 

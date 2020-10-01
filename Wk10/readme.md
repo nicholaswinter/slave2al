@@ -57,6 +57,9 @@
 
 <img width="1552" alt="Screen Shot 2020-10-01 at 5 44 51 pm" src="https://user-images.githubusercontent.com/68719286/94785149-52caae80-040e-11eb-8fc7-70355aa9a8f8.png">
 
+<img width="1552" alt="Screen Shot 2020-10-01 at 6 37 14 pm" src="https://user-images.githubusercontent.com/68719286/94790269-32eab900-0415-11eb-82d8-f9764660bb7f.png">
+
+<img width="1552" alt="Screen Shot 2020-10-01 at 6 37 26 pm" src="https://user-images.githubusercontent.com/68719286/94790294-37af6d00-0415-11eb-84b5-5e34d9c3dce1.png">
 
 
 

@@ -32,12 +32,12 @@ function setup(){
   text("HRU...", 100, 170);
   
   button1=createButton('talk it out');
-  button1.size(500);
+  button1.size(100);
   button1.position(width/2-100, height-(2*(height/3)));
   button1.mousePressed(shout);
   
   button2=createButton('write it down?');
-  button2.size(500);
+  button2.size(100);
   button2.position(width/2-100, height-(height/3));
   button2.mousePressed(type); 
  }

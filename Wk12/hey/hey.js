@@ -16,6 +16,10 @@ var textDisplay = [];
 var box, button1, button2, button3; 
 var resultValue, resultWord, result; 
 
+//colours
+var color1; 
+var color2; 
+
 function preload() {
   F1=loadFont('data/CormorantGaramond-Bold.ttf'); 
   F2=loadFont('data/Fahkwang-ExtraLight.ttf'); 
@@ -30,16 +34,28 @@ function setup() {
   textSize(90);
   textFont(F1);
   text("HRU...", 100, 170);
+  text("Press ESC to return to homepage", color1);
 
   button1=createButton('talk it out');
+  button1.style('background-color', color2); 
+  button1.style('line-color', color2); 
   button1.size(100);
   button1.position(width/2-100, height-(2*(height/3)));
   button1.mousePressed(shout);
 
   button2=createButton('write it down?');
+  button2.style('background-color', color2); 
+  button2.style('line-color', color2); 
   button2.size(100);
   button2.position(width/2-100, height-(height/3));
   button2.mousePressed(type);
+  
+  color1 = color (255); 
+  color2 = color (255,0,0); 
+  button4=createButton('screenshot'); 
+  button4.position (60*2,900); 
+  button4.style('background-color', color2); 
+  button4.style('line-color', color2); 
 }
 
 

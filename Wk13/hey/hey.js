@@ -2,7 +2,7 @@
 var speechRec = new p5.SpeechRec();
 speechRec.continuous = true;
 speechRec.interimResults = true;
-speechRec.onResult = showResult;
+speechRec.onResult = showResult; 
 
 // functions
 let angle = 0; 
@@ -15,6 +15,7 @@ var textEntry, RiTa;
 var textDisplay = []; 
 var box, button1, button2, button3; 
 var resultValue, resultWord, result; 
+var slider; 
 
 //colours
 var color1; 
@@ -40,12 +41,12 @@ function setup() {
   text("HRU...", 100, 170);
   text("Press ESC to return to homepage", color1);
 
-  //button1=createButton('talk it out');
-  //button1.style('background-color', color2); 
-  //button1.style('line-color', color2); 
-  //button1.size(100);
-  //button1.position(width/2-100, height-(2*(height/3)));
-  //button1.mousePressed(shout);
+  button1=createButton('talk it out');
+  button1.style('background-color', color2); 
+  button1.style('line-color', color2); 
+  button1.size(100);
+  button1.position(width/2-100, height-(2*(height/3)));
+  button1.mousePressed(shout);
 
   button2=createButton('write it down?');
   button2.style('background-color', color2); 
@@ -56,31 +57,31 @@ function setup() {
 }
 
 
-//function shout() {
-//  mode = 1;
-//  button1.hide();
-//  button2.hide();
-//  clear();
-//  background(random(255));
-//  textSize(72);
-//  textFont(F2); 
-//  speechRec.start();
-//}
+function shout() {
+  mode = 1;
+  button1.hide();
+  button2.hide();
+  clear();
+  background(random(255));
+  textSize(72);
+  textFont(F2); 
+  speechRec.start();
+}
 
-//function showResult() {
-//  if (speechRec.resultValue === true) {
-//    clear();
-//    background(0);
+function showResult() {
+  if (speechRec.resultValue === true) {
+    clear();
+    background(0);
 
-//    if (match(speechRec.resultString, "hello")) {
-//      fill(255, 0, 0);
-//    } else {
-//      fill(255);
-//    }
+    if (match(speechRec.resultString, "hello")) {
+      fill(255, 0, 0);
+    } else {
+      fill(255);
+    }
 
-//    text(speechRec.resultString, 70, 140, width-100);
-//  }
-//}
+    text(speechRec.resultString, 70, 140, width-100);
+  }
+}
 
 function type() {
   mode = 2;
@@ -105,6 +106,11 @@ function thoughtData() {
   mode = 3; 
   box.hide(); 
   button3.hide();
+  
+  //slider for text 
+  slider = createSlider(10, 100, 86); 
+  slider.style('background-color', color2); 
+  slider.position (width/2-100, height-(height/3)); 
 
   const boxdata = box.value(); 
   var params = {
@@ -123,22 +129,23 @@ textAlign(CENTER, CENTER);
 for (var k in counts) {
   if (counts.hasOwnProperty(k)) {
     fill(random(255), random(255), random(255));
-    //fill(random(255));
+    fill(random(255));
     textFont(F2); 
-    //textSize(100*counts[k]);
     textSize(100*counts[k]);
-    text(k, random(width), random(height)); 
-    //rotate(angle); 
-    //fill(255, 0, 0); 
-    //rect(mouseX, mouseY, 10, 10); 
-    //angle = angle +10;
+    textSize(100*counts[k]);
+    text(k, slider.value(width), slider.value(height)); 
+    rotate(angle); 
+    fill(255, 0, 0); 
+    rect(mouseX, mouseY, 10, 10); 
+    angle = angle +10;
     
+    //screenshot button
     color1 = color (255); 
     color2 = color (255,0,0); 
     button4=createButton('screenshot'); 
     button4.position (50*2,80); 
     button4.style('background-color', color2); 
-    button4.style('line-color', color2); 
+    button4.style('line-color', color2);
    }
   }
 }
@@ -173,11 +180,3 @@ function keyPressed(){
   button2.mousePressed(type);
  }
 }
-//function mousePressed(){
-// rand = int(random(65,160)); 
-// letter = char(rand); 
-// size=int(random(6,100)); 
-// speed=int(100-size)/4;
-// wigglyLetters.push(new Wiggle(mouseX, mouseY, size, letter, speed)); 
-// }
-//}

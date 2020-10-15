@@ -16,6 +16,8 @@ var textDisplay = [];
 var box, button1, button2, button3; 
 var resultValue, resultWord, result; 
 var slider; 
+var boxdata = [];
+var selectedfont;
 
 //colours
 var color1; 
@@ -38,22 +40,24 @@ function setup() {
   fill (255);
   textSize(90);
   textFont(F1);
-  text("HRU...", 100, 170);
+  text("random(tool)", 100, 170);
   text("Press ESC to return to homepage", color1);
 
-  button1=createButton('talk it out');
+  button1=createButton('get talking');
   button1.style('background-color', color2); 
   button1.style('line-color', color2); 
   button1.size(100);
   button1.position(width/2-100, height-(2*(height/3)));
   button1.mousePressed(shout);
 
-  button2=createButton('write it down?');
+  button2=createButton('get a collage');
   button2.style('background-color', color2); 
   button2.style('line-color', color2); 
   button2.size(100);
   button2.position(width/2-100, height-(height/3));
   button2.mousePressed(type);
+  
+  selectedfont = F1;
 }
 
 
@@ -90,9 +94,9 @@ function type() {
   clear(); 
   background(0); 
   
-  box = createInput("thoughts?"); 
-  box.attribute("placeholder", "thoughts"); 
-  box.size(300, 50); 
+  box = createInput(""); 
+  box.attribute("placeholder", "gimme some text"); 
+  box.size(300, 60); 
   box.position(width/2-150, height/2);
 
   button3=createButton('generate a collage'); 
@@ -102,17 +106,45 @@ function type() {
   button3.mousePressed(thoughtData);
 }
 
+function getText() {
+  boxdata = box.value();
+}
+
 function thoughtData() {
   mode = 3; 
   box.hide(); 
   button3.hide();
   
-  //slider for text 
+  /*//slider for text 
   slider = createSlider(10, 100, 86); 
   slider.style('background-color', color2); 
-  slider.position (width/2-100, height-(height/3)); 
-
-  const boxdata = box.value(); 
+  slider.position (width/2-100, height-(height/3));*/
+  
+  // font buttons
+  font1button=createButton('font 1'); 
+  font1button.size(100);
+  font1button.position(width/2-30, height-(0.4*(height/3)));
+  font1button.mousePressed(font1);
+  
+  font2button=createButton('font 2');
+  font2button.size(100);
+  font2button.position(width/4-30, height-(0.6*(height/3)));
+  font2button.mousePressed(font2);
+  
+  font3button=createButton('font 3'); 
+  font3button.size(100);
+  font3button.position(width/3-30, height-(0.5*(height/4)));
+  font3button.mousePressed(font3);
+  
+  font4button=createButton('font 4'); 
+  font4button.size(100);
+  font4button.position(width/4-30, height-(0.5*height/4));
+  font4button.mousePressed(font4);
+  
+  if (boxdata.length == 0) {
+    getText();
+  }
+ 
   var params = {
   ignoreStopWords: 
   true, 
@@ -120,34 +152,53 @@ function thoughtData() {
   true, 
   ignorePunctuation: 
   true
-};
-counts = RiTa.concordance(boxdata, params); 
+  };
+  
+  counts = RiTa.concordance(boxdata, params); 
 
-background(random(255), random(255),random(255)); 
-textAlign(CENTER, CENTER);
+  background(random(255), random(255),random(255)); 
+  textAlign(CENTER, CENTER);
 
-for (var k in counts) {
-  if (counts.hasOwnProperty(k)) {
-    fill(random(255), random(255), random(255));
-    fill(random(255));
-    textFont(F2); 
-    textSize(100*counts[k]);
-    textSize(100*counts[k]);
-    text(k, slider.value(width), slider.value(height)); 
-    rotate(angle); 
-    fill(255, 0, 0); 
-    rect(mouseX, mouseY, 10, 10); 
-    angle = angle +10;
-    
-    //screenshot button
-    color1 = color (255); 
-    color2 = color (255,0,0); 
-    button4=createButton('screenshot'); 
-    button4.position (50*2,80); 
-    button4.style('background-color', color2); 
-    button4.style('line-color', color2);
-   }
+  color1 = color (255); 
+  color2 = color (255,0,0); 
+  button4=createButton('screenshot'); 
+  button4.position (50*2,80); 
+  button4.style('background-color', color2); 
+  button4.style('line-color', color2);
+  //button.mousePressed(saveImage);
+
+  for (var k in counts) {
+    if (counts.hasOwnProperty(k)) {
+      fill(random(255), random(255), random(255));
+      console.log(selectedfont);
+      //push(); 
+      textFont(selectedfont); 
+      textSize(random(5, 300));
+      text(k, random(width), random(height));
+      fill(255, 0, 0);
+      //pop(); 
+     }
   }
+}
+
+function font1() {
+  selectedfont = F1;
+  thoughtData();
+}
+
+function font2() {
+  selectedfont = F2;
+  thoughtData();
+}
+
+function font3() {
+  selectedfont = F3;
+  thoughtData();
+}
+
+function font4() {
+  selectedfont = F4;
+  thoughtData();
 }
 
 function keyPressed(){
@@ -160,6 +211,7 @@ function keyPressed(){
  textFont(F2); 
  fill(255); 
  text("press \ 'ESC\ 'to restart", windowWidth/2, windowHeight*2); 
+ boxdata = [];
  
   mode = 0; 
   createCanvas(windowWidth, windowHeight);
@@ -167,7 +219,7 @@ function keyPressed(){
   fill (255);
   textSize(90);
   textFont(random(F1, F2, F3, F4));
-  text("HRU...", 100, 170);
+  text("random(tool)", 100, 170);
 
   //button1=createButton('talk it out');
   //button1.size(100);
@@ -180,3 +232,7 @@ function keyPressed(){
   button2.mousePressed(type);
  }
 }
+
+function saveImage() {
+  saveCanvas(windowWidth, windowHeight,'Canvas', 'jpg');
+  }

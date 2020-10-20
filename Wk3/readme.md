@@ -24,7 +24,7 @@ It was not self automated, however the markings were imprinted at random due to 
 
 With the process of turning on the dryer, and then laid beneath was my card and colours that were spread from the force of the heat/ wind. Applying water at the same time allowed for the process to be elongated. 
 
-<h1>Example Artists:</h1> 
+<h2>Example Artists:</h2> 
 
 - Eske Rex
 - Karina Smigla-Bobinski

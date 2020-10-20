@@ -15,7 +15,7 @@ Honestly coming upon reflection, I found processing quite difficult to understan
 
 - Raven Kwow
 
-- Steve Reich <a href="https://www.youtube.com/watch?v=71A_sm71_BI">Music for 18 Musicians.</a> This piece is a demonstration of chance, practice and coordination, a piece that feels generative in sound, yet also hypnotic (a piece I would like to develop a project around. It's already a system and I can utilise the sheet music to create my final product. A depiction of sound... 
+- Steve Reich <a href="https://www.youtube.com/watch?v=71A_sm71_BI">Music for 18 Musicians.</a> This piece is a demonstration of chance, practice and coordination, a piece that feels generative in sound, yet also hypnotic - An organised chaos of sorts, (a piece I would like to develop a project around. It's already a system and I can utilise the sheet music to create my final product. A depiction of sound... 
 
 Personally, having mentioned mental health this week, in the form of anxiety interests me. Even dreams. Anxious dreams and how can I create a system them that looks to correct these anxieties through music or white noise? Including visuals, colours or patterns to help your 'sleep state'? This would interest me most - Creating atmospheres in which allows a being to enter their sleep without hestiations or distracting thoughts, a program that can detect when those thoughts are triggered, and then counteract them. 
 

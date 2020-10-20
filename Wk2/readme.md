@@ -4,6 +4,7 @@ Honestly coming upon reflection, I found processing quite difficult to understan
 
 <h2>CheatSheet Dimensions</h2> 
 - Line: 0,0 STARTING POINT 0,0 ENDING 
+
 - Rect: 0,0 WHERE(can insert mouse), 0,0 SIZE 
 
 <h3>Notable Artists</h3>**Aesthetically**: 

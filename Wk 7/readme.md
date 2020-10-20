@@ -39,3 +39,7 @@ Thus far progress has been *far too slow*, and I'm eager now to experiement and 
 <img width="1280" alt="Screen Shot 2020-09-17 at 4 53 27 pm" src="https://user-images.githubusercontent.com/68719286/93433801-72d67a00-f906-11ea-98f6-2f30036ae146.png">
 
 <img width="1280" alt="Screen Shot 2020-09-17 at 4 53 06 pm" src="https://user-images.githubusercontent.com/68719286/93433794-723de380-f906-11ea-844e-3961107fcba4.png">
+
+<h3>Assignment checkpoint</h3> 
+
+Currently liking this exploration of Practical Vs Play. Having changed my idea again, I've had to comprimise initial research, and will need to start again re: getting better resources to justify the creation of this system. How will I work this within my current timeframe? Taking this text experiment I may be able to create something that looks to manipulate type? COME ON NICK, FIGURE IT OUT. 

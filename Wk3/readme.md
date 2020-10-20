@@ -51,11 +51,27 @@ Carl G. Jung, Man and His Symbols, this is an interesting examination of how we 
 
 
 <h3>12 Hour Challenge System</h3> 
+
 ![12 Hour Challenge #1](https://user-images.githubusercontent.com/68719286/96591867-465fb480-132f-11eb-8432-be888db02d58.PNG)
+
 
 ![12 Hour Challenge Rules](https://user-images.githubusercontent.com/68719286/96591879-4b246880-132f-11eb-8453-94440c441202.PNG)
 
+
 ![Subtopic](https://user-images.githubusercontent.com/68719286/96591882-4c559580-132f-11eb-804d-4bc55a41f026.jpeg)
 
+<h3>OUTCOMES</h3> 
+
+<h4>Using system</h4> 
+
+![12hrchallenge](https://user-images.githubusercontent.com/68719286/96592439-ed445080-132f-11eb-8c06-085516f08a6a.png)
+
+<h4>Using the system Loosely</h4>  
+
+![insta1](https://user-images.githubusercontent.com/68719286/96592501-fe8d5d00-132f-11eb-9c7f-0b57aa50011d.png)
+
+![insta3](https://user-images.githubusercontent.com/68719286/96592535-0947f200-1330-11eb-9013-b5b2a62cb5f0.png)
+
+![insta2](https://user-images.githubusercontent.com/68719286/96592524-06e59800-1330-11eb-802a-bd29f790f274.png)
 
 

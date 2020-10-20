@@ -1,21 +1,20 @@
-Wk 2 
+<h1>Wk 2</h1>  
 
 Honestly coming upon reflection, I found processing quite difficult to understand in regards to how the coding language reads. 
 
+<h2>CheatSheet Dimensions</h2> 
+- Line: 0,0 STARTING POINT 0,0 ENDING 
+- Rect: 0,0 WHERE(can insert mouse), 0,0 SIZE 
 
-Processing: 
-Cheatsheet
-Line: 0,0 STARTING POINT 0,0 ENDING 
-Rect: 0,0 WHERE(can insert mouse), 0,0 SIZE 
-
-Notable Artists**Aesthetically: 
+<h3>Notable Artists</h3>**Aesthetically**: 
 - Ryoji Ikeda 
 - Raven Kwow
 
 Personally, having mentioned mental health this week, in the form of anxiety interests me. Even dreams. Anxious dreams and how can I create a system them that looks to correct these anxieties through music or white noise? Including visuals, colours or patterns to help your 'sleep state'? This would interest me most - Creating atmospheres in which allows a being to enter their sleep without hestiations or distracting thoughts, a program that can detect when those thoughts are triggered, and then counteract them. 
 
-Example artists
-- Piet Mondrian
+<h3>Example artists</h3> 
+
+- Piet Mondrian, his style and art form graphically intruiges me. Utilising this kind of randomised Mondrian program could be interesting? Create a tool for graphics! 
 - Sol Lewitt 
 - Yoko Ono
 - Manfred Mohr 
@@ -23,53 +22,5 @@ Example artists
 - Harold Cohen Aaron 
 - Samuel C Monier 
 - Jean Pierre Herbert 
-
-
-
-       //REVISION
- 
-      void setup(){
-      size (500,500); 
-      background (0); 
-      } 
-
-      void draw(){
-      if (mousePressed){
-      fill(255); 
-      noStroke(); 
-      stroke(255); 
-      line (mouseX,mouseY,250,250); 
-      stroke (0); 
-      fill(255,0,0); 
-      }
-      if (mousePressed)
-      rect(mouseX,mouseY,25,10); 
-      fill(255); 
-      noStroke(); 
-      }
-      
-      //
-      void setup() {
-      size (500, 500);
-      fill (100,30,60, 50);
-      background (255,255,255);
-      stroke (0);
-      }
-		
-      void draw (){
-      if (mousePressed) {
-      fill (255);
-      noStroke();
-      ellipse (mouseX, mouseY,100, 100);
-      }
-		  else {
-		  fill (mouseX/2, 0, mouseY/2, 30);
-		  stroke (0);
-		  ellipse (mouseX, mouseY,100, 100);
-		  }
-		 }
-		void keyPressed() {
-		  background(mouseX/2, 255-(mouseX/2), mouseY/2);
-		}
       
       

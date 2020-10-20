@@ -30,7 +30,7 @@ Extending our Processing skills this week, we looked at picture generation as we
 
 <h4>Generated Picture</h4>
 
-<img width="612" alt="Screen Shot 2020-10-20 at 11 07 25 pm" src="https://user-images.githubusercontent.com/68719286/96597575-86c23100-1335-11eb-8fc9-d3d46ebbbe99.png">
+<img width="592" alt="Screen Shot 2020-10-20 at 11 10 13 pm" src="https://user-images.githubusercontent.com/68719286/96597567-86299a80-1335-11eb-918b-1cc5ac0f4413.png">
 
 <h4>Original Picture</h4> 
 
@@ -42,5 +42,5 @@ Extending our Processing skills this week, we looked at picture generation as we
 
 <img width="612" alt="Screen Shot 2020-10-20 at 11 07 22 pm" src="https://user-images.githubusercontent.com/68719286/96597547-82961380-1335-11eb-852e-63712601b158.png">
 
-<img width="592" alt="Screen Shot 2020-10-20 at 11 10 13 pm" src="https://user-images.githubusercontent.com/68719286/96597567-86299a80-1335-11eb-918b-1cc5ac0f4413.png">
+<img width="612" alt="Screen Shot 2020-10-20 at 11 07 25 pm" src="https://user-images.githubusercontent.com/68719286/96597575-86c23100-1335-11eb-8fc9-d3d46ebbbe99.png">
 

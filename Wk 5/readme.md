@@ -2,9 +2,11 @@
 
 Presenting, 'Hypnotic Sleep' I've now come to a completely speculative concept that will hopefully not be too ambitious. 
 
-INPUT - Sleep 
-PROCESS - Hypnosis 
-OUTPUT - Healthy, happy you. 
+- INPUT | Sleep 
+
+- PROCESS | Hypnosis 
+
+- OUTPUT | Healthy, happy you. 
 
 Looking into different sound artists/ composers, I loved the work of: 
 

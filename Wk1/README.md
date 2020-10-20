@@ -17,7 +17,7 @@ My first assignment, although far away purely speculative. I'm eager to explore 
 
 
 
+
+<h3>Class Documents</h3> 
 [wk1 activity (dragged) 2.pdf](https://github.com/nicholaswinter/slave2al/files/5408719/wk1.activity.dragged.2.pdf)
-
-
 [wk1 activity (dragged).pdf](https://github.com/nicholaswinter/slave2al/files/5408720/wk1.activity.dragged.pdf)

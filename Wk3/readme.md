@@ -1,10 +1,11 @@
-Wk 3
+<h1>Wk 3</h1> 
 
 Problem solving, and drawing machines. 
 
 Understanding how a drawing machine can be constructed, creating automatic bio technological markings. 
 
-Trial #1
+<h2>Trial #1</h2> 
+
 - String, 
 - Markers, 
 - Cardboard, 
@@ -13,7 +14,8 @@ Trial #1
 
 It was not self automated, however the markings were imprinted at random due to the lack of control over the string. Further this, I looked to a different mode of mark making. 
 
-Trial #2
+<h2>Trial #2</h2> 
+
 - Dryer, 
 - Watercolours,
 - Water,
@@ -22,7 +24,8 @@ Trial #2
 
 With the process of turning on the dryer, and then laid beneath was my card and colours that were spread from the force of the heat/ wind. Applying water at the same time allowed for the process to be elongated. 
 
-Example Artists: 
+<h1>Example Artists:</h1> 
+
 - Eske Rex
 - Karina Smigla-Bobinski
 - Joseph Griffiths 
@@ -44,4 +47,15 @@ HW:
 Create a mockup pre next week to present as an "idea", as speculating the idea without the effort to visualise it doesn't allow someone to fully understand the abstraction. *Speak to an object* A depiction of what you're abstracting. 
 
 Personal thoughts/ Readings: 
-Carl G. Jung, Man and His Symbols
+Carl G. Jung, Man and His Symbols, this is an interesting examination of how we understand symbols. 
+
+
+<h3>12 Hour Challenge System</h3> 
+![12 Hour Challenge #1](https://user-images.githubusercontent.com/68719286/96591867-465fb480-132f-11eb-8432-be888db02d58.PNG)
+
+![12 Hour Challenge Rules](https://user-images.githubusercontent.com/68719286/96591879-4b246880-132f-11eb-8453-94440c441202.PNG)
+
+![Subtopic](https://user-images.githubusercontent.com/68719286/96591882-4c559580-132f-11eb-804d-4bc55a41f026.jpeg)
+
+
+

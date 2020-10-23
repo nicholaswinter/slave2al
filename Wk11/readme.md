@@ -14,7 +14,7 @@ Little Prince .txt string upload.
 
 <h3>Menu addition</h3> 
 
-This menu addition consists of both the 'collage make', and the 'collage chat' functions, whereby one is to create the design through user input, whereas the other the input is their speech. This contrast allows for enjoyable interaction, and the scope to discover unexplored possibilities for type setting.  
+This menu addition consists of both the 'collage make', and the 'collage chat' functions, whereby one is to create the design through user input, whereas the other the input is their speech. This contrast allows for enjoyable interaction, and the scope to discover unexplored possibilities for type setting. I'm yet to still add buttons/ sliders/ other elements to adapt the already random design. Considering this concept idea came quite late in this process, I've learnt that my commitment issues within assignment based pieces are not as well researched/ developed/ have the gravitas I would usually show within my work. 
 
 <img width="1552" alt="Screen Shot 2020-10-06 at 5 58 59 pm" src="https://user-images.githubusercontent.com/68719286/96956806-9792c280-1540-11eb-8109-babfbc097049.png">
 
@@ -27,4 +27,5 @@ This menu addition consists of both the 'collage make', and the 'collage chat' f
 <img width="1552" alt="Screen Shot 2020-10-06 at 7 39 43 pm" src="https://user-images.githubusercontent.com/68719286/96956822-9feafd80-1540-11eb-850e-522c805e8914.png">
 
 <img width="1552" alt="Screen Shot 2020-10-06 at 7 40 36 pm" src="https://user-images.githubusercontent.com/68719286/96956826-a11c2a80-1540-11eb-9b47-a0fdcfa52e52.png">
+
 

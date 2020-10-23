@@ -1,4 +1,8 @@
 <h1> Final Submission Week </h1> 
+
+Upon reflection, I believe this process taught me a monstrous amount, both about my practice and in terms of hardcore code. The mathematics definitely got me stumped many times over, but I'm eager to progress and learn more. The system I finished on was a random(tool) for randomised graphic elements, that contribute to the creative process, similar to scrolling! Accept you're required to enter your own parameters to then abstract and screenshot. It’s a process of discovery and exploration. 
+
+
 <p> I was figuring the button settings for hours, trying to get them set straight. Finally managed it after many unfavourable attempts...</p>
 
 <h2>Trials</h2> 

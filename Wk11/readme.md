@@ -28,4 +28,14 @@ This menu addition consists of both the 'collage make', and the 'collage chat' f
 
 <img width="1552" alt="Screen Shot 2020-10-06 at 7 40 36 pm" src="https://user-images.githubusercontent.com/68719286/96956826-a11c2a80-1540-11eb-9b47-a0fdcfa52e52.png">
 
+<h2>User Interface Design</h2> 
+
+I managed to complete the landing pages before managing to attach them to the actual product! The coordinates I really struggled with, but managed to fix them to get a cohesive outcome. 
+
+<img width="1250" alt="Screen Shot 2020-10-23 at 8 24 41 pm" src="https://user-images.githubusercontent.com/68719286/96990973-5960c780-156f-11eb-943e-510f4e1ad849.png">
+
+<img width="1250" alt="Screen Shot 2020-10-23 at 8 24 44 pm" src="https://user-images.githubusercontent.com/68719286/96990990-5d8ce500-156f-11eb-9a72-52c6f906bd8f.png">
+
+<img width="1250" alt="Screen Shot 2020-10-23 at 8 24 48 pm" src="https://user-images.githubusercontent.com/68719286/96990994-5ebe1200-156f-11eb-956d-8289a9ab8adb.png">
+
 

@@ -1,5 +1,7 @@
 <h1> A New Week </h1> 
 
+Looking to abstract type, as I've not managed to get the RiTa library working within my code prior, regarding the randomised daily planner (PvP), I've only been able to enter my own strings, rather than programming a fully automated random schedule. This angered me... I was extremely frustration and again wanted to throw in the towel. However, I attempted to re-spark my intruige by working with these abstract TextToPoint typographic forms. Through exploration, this tool and mode of graphic generation intruiges me, and I'm starting to think that maybe making a universal tool to further my design capabilities is the way to go. 
+
 <h2> text to point tutorial </h2>
 
 <h3> trial #1 </h3> 

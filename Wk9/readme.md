@@ -35,3 +35,7 @@ I've developed the concept, and have decided to extend research towards translat
 
 
 <img width="1180" alt="Screen Shot 2020-10-01 at 7 58 35 am" src="https://user-images.githubusercontent.com/68719286/94746557-24bc7e80-03bc-11eb-8c73-ac24b0cfd64d.png">
+
+<h1>Coding</h1> 
+
+In terms of coding this beast, I've looked into how I may be able to incorperate live Chinese translation. After this fridays tutorial with Karen and with Shuchen's knowledge, they were able to constuct speech.js. Which was a GAME CHANGER, I appreciated this tutorial so much... and have been playing with it ever since. This being said, I'm now leaning towards an expressive translator, that has the ability to use a colour legend to identify expressive thought/ speech/ tonal quality, that intern should be able to extend intercultural/ intracultural/ cross-culture communications.
